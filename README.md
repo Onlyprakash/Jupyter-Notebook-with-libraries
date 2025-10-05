@@ -1,7 +1,7 @@
 <div align="left">
 
 <h2>
-  <img src="https://github.com/user-attachments/assets/dfabd6cd-ee48-41e0-97ef-969f1aefceb7" width="35" height="35" style="vertical-align:middle;margin-right:8px;" />  Python-on-Jupyter-Notebook-with-Libraries
+  <img src="https://github.com/user-attachments/assets/dfabd6cd-ee48-41e0-97ef-969f1aefceb7" width="40" height="35" style="vertical-align:middle;margin-right:8px;" />  Python-on-Jupyter-Notebook-with-Libraries
 </h2>
 
 </div>
