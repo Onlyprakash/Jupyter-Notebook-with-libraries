@@ -1,11 +1,4 @@
-<div align="left">
-
-<h2>
-  <img src="https://github.com/user-attachments/assets/dfabd6cd-ee48-41e0-97ef-969f1aefceb7" width="40" height="35" style="vertical-align:middle;margin-right:8px;" />  Python-on-Jupyter-Notebook-with-Libraries
-</h2>
-
-</div>
-Python-on-Jupyter-Notebook-with-Libraries
+# <img width="38" height="38" alt="icons8-python-38" src="https://github.com/user-attachments/assets/dfabd6cd-ee48-41e0-97ef-969f1aefceb7" /> Python-on-Jupyter-Notebook-with-Libraries
 
 In this Repository, I share Jupyter Notebook Covering a wide range of Python Concepts, Based on Real-World Examples.
 
