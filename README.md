@@ -7,7 +7,7 @@ The Topics Range from Basic to Advanced, Utilizing the following popular Librari
 # <img width="38" height="38" alt="icons8-numpy-38" src="https://github.com/user-attachments/assets/f906f4f3-6ef2-4f1d-8ba6-68b3940008e1" /> NumPy
 # <img width="38" height="38" alt="icons8-pandas-logo-38" src="https://github.com/user-attachments/assets/bf737ad9-dd15-42c3-a03c-44decba75a2d" /> Pandas
 # <img width="40" height="40" alt="icons8-matplotlib-40" src="https://github.com/user-attachments/assets/faa4cfce-67c1-4561-add8-11b0207674d6" /> Matplotlib
-#  Seaborn
+# <img width="2000" height="2000" alt="seaborn-seeklogo" src="https://github.com/user-attachments/assets/56cd33cd-eec8-4da8-b88a-866965b3e020" /> Seaborn
 
 
 
