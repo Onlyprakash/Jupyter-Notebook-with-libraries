@@ -8,7 +8,5 @@ The Topics Range from Basic to Advanced, Utilizing the following popular Librari
 * Pandas
 * Matplotlib
 * Seaborn
-# <i class="devicon-pandas-original"></i>
-<!-- Place this in your header -->
-# <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+# <img src="https://devicon-website.vercel.app/api/pandas/original.svg"></img>
 
