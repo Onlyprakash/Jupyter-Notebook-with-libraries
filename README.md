@@ -1,4 +1,4 @@
-<div align="center">
+<div align="middle">
 
 ## <img src="https://github.com/user-attachments/assets/dfabd6cd-ee48-41e0-97ef-969f1aefceb7" width="30" height="30" style="vertical-align:middle;margin-right:8px;" />Python-on-Jupyter-Notebook-with-Libraries
 
