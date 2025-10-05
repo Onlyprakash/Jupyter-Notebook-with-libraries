@@ -1,5 +1,9 @@
+<div align="center">
 
-# <img src="https://github.com/user-attachments/assets/dfabd6cd-ee48-41e0-97ef-969f1aefceb7" width="48" height="48" style="vertical-align:middle;" />Python-on-Jupyter-Notebook-with-Libraries
+## <img src="https://github.com/user-attachments/assets/dfabd6cd-ee48-41e0-97ef-969f1aefceb7" width="30" height="30" style="vertical-align:middle;margin-right:8px;" /> Python Projects
+
+</div>
+ Python-on-Jupyter-Notebook-with-Libraries
 
 In this Repository, I share Jupyter Notebook Covering a wide range of Python Concepts, Based on Real-World Examples.
 
