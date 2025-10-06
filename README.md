@@ -103,7 +103,8 @@ Key uses in this project include :-
  
  
  <img width="38" height="38" alt="seaborn-seeklogo" src="https://github.com/user-attachments/assets/56cd33cd-eec8-4da8-b88a-866965b3e020" /> Seaborn :- Seaborn builds on Matplotlib and provides a higher-level interface  
-          for creating beautiful and informative statistical graphics.
+ 
+  for creating beautiful and informative statistical graphics.
 
 It simplifies complex visualizations such as :-
 
