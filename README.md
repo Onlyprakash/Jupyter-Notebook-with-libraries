@@ -1,4 +1,4 @@
-# <img width="48" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/dfabd6cd-ee48-41e0-97ef-969f1aefceb7" /> Python-on-Jupyter-Notebook-with-Libraries
+# <img width="48" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/dfabd6cd-ee48-41e0-97ef-969f1aefceb7" /> Python-on-Jupyter-Notebook-with-Libraries 📚
 
 In this Repository, I share Jupyter Notebook Covering a wide range of Python Concepts, Based on Real-World Examples.
 
@@ -16,6 +16,24 @@ It combines conceptual learning and hands-on data analytics, using Jupyter Noteb
 ✅ Real dataset analysis using CSV and Excel files
 
 ✅ Beginner-friendly structure for students and self-learners
+
+# 🧠 Topics Covered :-
+
+# 🔹 Core Python Concepts :
+
+*  Syntax and Semantics
+
+*  Variables, Data Types, and Operators
+
+*  Conditional Statements and Loops
+
+*  Functions and Scope
+
+*  Data Structures (Lists, Tuples, Dictionaries, Sets)
+
+*  File Handling and Exception Handling
+
+*  Object-Oriented Programming (Classes, Objects, Inheritance)
 
 The Topics Range from Basic to Advanced, Utilizing the following popular Libraries:-
 
