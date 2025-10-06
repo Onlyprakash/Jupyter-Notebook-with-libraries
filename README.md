@@ -5,6 +5,7 @@ In this Repository, I share Jupyter Notebook Covering a wide range of Python Con
 # 📘 Overview :-
 This repository is a comprehensive Python learning and practice project designed to master the fundamentals of Python programming and apply them to real-world data analysis.
 
+
 It combines conceptual learning and hands-on data analytics, using Jupyter Notebook as the primary workspace
 
 # 🚀 Features :-
@@ -68,7 +69,7 @@ Key uses in this project include :-
 
 * Handling data transformations during analysis
  
-* In short, NumPy gives this project speed and accuracy when working with numeric columns in the dataset
+* NumPy gives this project speed and accuracy when working with numeric columns in the dataset
  
 
  
@@ -86,7 +87,6 @@ Key uses in this project include :-
 
 * Generate descriptive statistics such as mean, median, and correlation
  
-* In this project, pandas was mainly used to load, clean, and analyze the retail sales dataset, helping to find sales patterns and summarize performance.
  
 
  
@@ -138,7 +138,7 @@ Based on your JupyterNoteBook.ipynb file, here are the highlights of the visuali
 
 # 👤 AUTHOR :-
 
-Prakash Kumar (Onlyprakash) GitHub Profile: https://github.com/Onlyprakash
+Prakash Kumar (Onlyprakash) GitHub Profile :-  👉  https://github.com/Onlyprakash
 
  
 
