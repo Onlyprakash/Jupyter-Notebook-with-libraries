@@ -69,6 +69,7 @@ Key uses in this project include :-
  
 * In short, NumPy gives this project speed and accuracy when working with numeric columns in the dataset
  
+ 
  <img width="38" height="38" alt="icons8-pandas-logo-38" src="https://github.com/user-attachments/assets/bf737ad9-dd15-42c3-a03c-44decba75a2d" /> Pandas :- Pandas is the core library for data analysis in this project.
  
  It allows structured data to be handled easily through DataFrames and Series, similar to tables in Excel.
@@ -84,6 +85,7 @@ Key uses in this project include :-
 * Generate descriptive statistics such as mean, median, and correlation
  
 * In this project, pandas was mainly used to load, clean, and analyze the retail sales dataset, helping to find sales patterns and summarize performance.
+ 
  
  <img width="38" height="38" alt="icons8-matplotlib-40" src="https://github.com/user-attachments/assets/faa4cfce-67c1-4561-add8-11b0207674d6" /> Matplotlib
  
