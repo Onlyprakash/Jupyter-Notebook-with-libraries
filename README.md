@@ -117,6 +117,15 @@ It simplifies complex visualizations such as :-
 
 * Pair plots for comparing multiple data variables
 
+# 📊 VISUALIZATION HIGHLIGHTS :-
+
+Based on your JupyterNoteBook.ipynb file, here are the highlights of the visualizations created using Matplotlib and Seaborn :
+
+➤ Sales Trend Over Time: A line plot showing the fluctuation of total revenue on a monthly basis.
+
+➤ Top Performing Product Categories: A bar chart highlighting which product categories are the most profitable.
+
+➤ Sales by Gender: A pie chart that breaks down the percentage of total sales contributed by male and female customers.
  
 
 
