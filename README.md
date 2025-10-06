@@ -130,17 +130,15 @@ Based on your JupyterNoteBook.ipynb file, here are the highlights of the visuali
 
 # 🛠️ Tools & Technologies :-
 
-# | Category          | Tools Used       |
+➤ Editor/IDE : Jupyter Notebook / VS Code
 
- | ----------------- | ---------------- |
- 
- | Language          | Python           |
- 
- | IDE / Environment | Jupyter Notebook |
- 
- | Version Control   | Git & GitHub     |
- 
- | File Formats      | `.csv`, `.xlsx`  |
+➤ Python Version : 3.10+ recommended
+
+➤ Required Libraries : pandas, numpy, matplotlib and seaborn
+
+# 👤 AUTHOR :-
+
+Prakash Kumar (Onlyprakash) GitHub Profile: https://github.com/Onlyprakash
 
  
 
