@@ -138,7 +138,7 @@ Based on your JupyterNoteBook.ipynb file, here are the highlights of the visuali
 
 # 👤 AUTHOR :-
 
-Prakash Kumar (Onlyprakash) <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0c62ff64-fad9-4ffa-a3bd-8e3733d89713" /> GitHub Profile :-  👉  https://github.com/Onlyprakash
+Prakash Kumar (Onlyprakash) <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/0c62ff64-fad9-4ffa-a3bd-8e3733d89713" /> GitHub Profile :-  👉  https://github.com/Onlyprakash
 
  
 
