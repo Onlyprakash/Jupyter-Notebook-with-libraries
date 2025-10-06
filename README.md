@@ -53,7 +53,7 @@ It combines conceptual learning and hands-on data analytics, using Jupyter Noteb
 
 The Topics Range from Basic to Advanced, Utilizing the following popular Libraries:-
 
- <img width="38" height="38" alt="icons8-numpy-38" src="https://github.com/user-attachments/assets/f906f4f3-6ef2-4f1d-8ba6-68b3940008e1" /> NumPy :- NumPy provides fast and efficient mathematical operations on arrays 
+<img width="38" height="38" alt="icons8-numpy-38" src="https://github.com/user-attachments/assets/f906f4f3-6ef2-4f1d-8ba6-68b3940008e1" /> NumPy :- NumPy provides fast and efficient mathematical operations on arrays 
                                                       and large datasets.
  
 It complements pandas by handling numerical operations behind the scenes.
@@ -68,7 +68,19 @@ Key uses in this project include :-
  
 * In short, NumPy gives this project speed and accuracy when working with numeric columns in the dataset
  
- <img width="38" height="38" alt="icons8-pandas-logo-38" src="https://github.com/user-attachments/assets/bf737ad9-dd15-42c3-a03c-44decba75a2d" /> Pandas
+ <img width="38" height="38" alt="icons8-pandas-logo-38" src="https://github.com/user-attachments/assets/bf737ad9-dd15-42c3-a03c-44decba75a2d" /> Pandas :- Pandas is the core library for data analysis in this project.    It allows structured data to be handled easily through DataFrames and Series, similar to tables in Excel.
+ 
+Key uses in this project include :-
+
+* Read and write files (like .csv and .xlsx)
+
+* Clean raw data by handling missing or duplicate values
+
+* Perform grouping, filtering, and aggregation
+
+* Generate descriptive statistics such as mean, median, and correlation
+* 
+* In this project, pandas was mainly used to load, clean, and analyze the retail sales dataset, helping to find sales patterns and summarize performance.
  
  <img width="38" height="38" alt="icons8-matplotlib-40" src="https://github.com/user-attachments/assets/faa4cfce-67c1-4561-add8-11b0207674d6" /> Matplotlib
  
