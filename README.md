@@ -54,8 +54,7 @@ It combines conceptual learning and hands-on data analytics, using Jupyter Noteb
 The Topics Range from Basic to Advanced, Utilizing the following popular Libraries:-
 
  <img width="38" height="38" alt="icons8-numpy-38" src="https://github.com/user-attachments/assets/f906f4f3-6ef2-4f1d-8ba6-68b3940008e1" /> NumPy :- NumPy provides fast and efficient mathematical operations on arrays 
-                                                                           
-                                                                           and large datasets.
+                                                      and large datasets.
  
 It complements pandas by handling numerical operations behind the scenes.
 
