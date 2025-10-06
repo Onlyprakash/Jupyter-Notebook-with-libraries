@@ -4,6 +4,7 @@ In this Repository, I share Jupyter Notebook Covering a wide range of Python Con
 
 # 📘 Overview :-
 This repository is a comprehensive Python learning and practice project designed to master the fundamentals of Python programming and apply them to real-world data analysis.
+
 It combines conceptual learning and hands-on data analytics, using Jupyter Notebook as the primary workspace
 
 # 🚀 Features :-
@@ -130,11 +131,11 @@ Based on your JupyterNoteBook.ipynb file, here are the highlights of the visuali
 # 🛠️ Tools & Technologies :-
 
 # | Category          | Tools Used       |
-  | ----------------- | ---------------- |
-  | Language          | Python           |
-  | IDE / Environment | Jupyter Notebook |
-  | Version Control   | Git & GitHub     |
-  | File Formats      | `.csv`, `.xlsx`  |
+ | ----------------- | ---------------- |
+ | Language          | Python           |
+ | IDE / Environment | Jupyter Notebook |
+ | Version Control   | Git & GitHub     |
+ | File Formats      | `.csv`, `.xlsx`  |
 
  
 
