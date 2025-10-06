@@ -2,9 +2,16 @@
 
 In this Repository, I share Jupyter Notebook Covering a wide range of Python Concepts, Based on Real-World Examples.
 
-# 📘 Overview
+# 📘 Overview :-
 This repository is a comprehensive Python learning and practice project designed to master the fundamentals of Python programming and apply them to real-world data analysis.
 It combines conceptual learning and hands-on data analytics, using Jupyter Notebook as the primary workspace
+
+# 🚀 Features :-
+✅ Complete walkthrough of Python basics to data analysis
+✅ Step-by-step explanations with practical code examples
+✅ Integration of pandas, NumPy, Matplotlib, and Seaborn for analytics
+✅ Real dataset analysis using CSV and Excel files
+✅ Beginner-friendly structure for students and self-learners
 
 The Topics Range from Basic to Advanced, Utilizing the following popular Libraries:-
 
