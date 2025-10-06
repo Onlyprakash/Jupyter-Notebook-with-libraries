@@ -112,7 +112,7 @@ It simplifies complex visualizations such as :-
 * Boxplots and histograms for distribution analysis
 
 * Pair plots for comparing multiple data variables
- 
+
   With its attractive themes and easy syntax, Seaborn makes data interpretation more visual and intuitive.
  
 
