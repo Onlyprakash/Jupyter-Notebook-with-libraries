@@ -49,6 +49,8 @@ It combines conceptual learning and hands-on data analytics, using Jupyter Noteb
 
 * Insights extraction from sales datasets
 
+# 🧩 Libraries Used :- 
+
 The Topics Range from Basic to Advanced, Utilizing the following popular Libraries:-
 
  <img width="38" height="38" alt="icons8-numpy-38" src="https://github.com/user-attachments/assets/f906f4f3-6ef2-4f1d-8ba6-68b3940008e1" /> NumPy
