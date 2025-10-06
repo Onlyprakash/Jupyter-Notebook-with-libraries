@@ -35,6 +35,20 @@ It combines conceptual learning and hands-on data analytics, using Jupyter Noteb
 
 *  Object-Oriented Programming (Classes, Objects, Inheritance)
 
+# 🔹 Data Analysis Concepts :
+
+* Importing CSV and Excel files
+
+* Data cleaning and preprocessing
+
+* Handling missing and duplicate values
+
+* Statistical summaries and correlation analysis
+
+* Data visualization using charts and graphs
+
+* Insights extraction from sales datasets
+
 The Topics Range from Basic to Advanced, Utilizing the following popular Libraries:-
 
  <img width="38" height="38" alt="icons8-numpy-38" src="https://github.com/user-attachments/assets/f906f4f3-6ef2-4f1d-8ba6-68b3940008e1" /> NumPy
