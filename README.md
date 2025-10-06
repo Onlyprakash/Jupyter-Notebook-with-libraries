@@ -53,7 +53,7 @@ It combines conceptual learning and hands-on data analytics, using Jupyter Noteb
 
 The Topics Range from Basic to Advanced, Utilizing the following popular Libraries:-
 
-# <img width="38" height="38" alt="icons8-numpy-38" src="https://github.com/user-attachments/assets/f906f4f3-6ef2-4f1d-8ba6-68b3940008e1" /> NumPy :- NumPy provides fast and efficient mathematical operations on arrays 
+<img width="38" height="38" alt="icons8-numpy-38" src="https://github.com/user-attachments/assets/f906f4f3-6ef2-4f1d-8ba6-68b3940008e1" /> NumPy :- NumPy provides fast and efficient mathematical operations on arrays 
                                                 
 and large datasets.
  
@@ -87,9 +87,34 @@ Key uses in this project include :-
 * In this project, pandas was mainly used to load, clean, and analyze the retail sales dataset, helping to find sales patterns and summarize performance.
  
  
- <img width="38" height="38" alt="icons8-matplotlib-40" src="https://github.com/user-attachments/assets/faa4cfce-67c1-4561-add8-11b0207674d6" /> Matplotlib
+ <img width="38" height="38" alt="icons8-matplotlib-40" src="https://github.com/user-attachments/assets/faa4cfce-67c1-4561-add8-11b0207674d6" /> Matplotlib :- Matplotlib is a fundamental data visualization library used 
+
+  to turn numbers into understandable charts and graphs.
+
+Key uses in this project include :-
+
+* Plot bar charts, line graphs, and scatter plots
+
+* Show sales performance, growth, and comparisons visually
+
+* Customize plots with labels, titles, and legends
  
- <img width="38" height="38" alt="seaborn-seeklogo" src="https://github.com/user-attachments/assets/56cd33cd-eec8-4da8-b88a-866965b3e020" /> Seaborn
+* It transforms raw data into clear visuals, helping users understand trends, patterns, and relationships in the retail dataset.
+ 
+ 
+ <img width="38" height="38" alt="seaborn-seeklogo" src="https://github.com/user-attachments/assets/56cd33cd-eec8-4da8-b88a-866965b3e020" /> Seaborn :- Seaborn builds on Matplotlib and provides a higher-level interface  
+ for creating beautiful and informative statistical graphics.
+
+It simplifies complex visualizations such as :-
+
+* Heatmaps for correlation between sales features
+
+* Boxplots and histograms for distribution analysis
+
+* Pair plots for comparing multiple data variables
+ 
+  With its attractive themes and easy syntax, Seaborn makes data interpretation more visual and intuitive.
+ 
 
 
 
