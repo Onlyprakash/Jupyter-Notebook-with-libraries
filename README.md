@@ -131,10 +131,15 @@ Based on your JupyterNoteBook.ipynb file, here are the highlights of the visuali
 # 🛠️ Tools & Technologies :-
 
 # | Category          | Tools Used       |
+
  | ----------------- | ---------------- |
+ 
  | Language          | Python           |
+ 
  | IDE / Environment | Jupyter Notebook |
+ 
  | Version Control   | Git & GitHub     |
+ 
  | File Formats      | `.csv`, `.xlsx`  |
 
  
